@@ -1,6 +1,6 @@
 {
 	"version": "v0.0.2",
 	"versionCode": 0002,
-	"zipUrl": "https://github.com/Redkm/ad-hosts/releases/download/v0.0.2/ad-hosts-v0.0.2-0002-release.zip",
+	"zipUrl": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/606409485/95a87c7f-4836-4068-ae48-9c30fa1b7b77?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230225T122556Z&X-Amz-Expires=300&X-Amz-Signature=5c1d2a1a3bd7a8acc50980813ea8415bd74b48ddd9a0297ab3131a5b547f71db&X-Amz-SignedHeaders=host&actor_id=93707229&key_id=0&repo_id=606409485&response-content-disposition=attachment%3B%20filename%3DMIUI-host-1-1.zip&response-content-type=application%2Foctet-stream",
 	"changelog": "https://lsposed.github.io/LSPosed/release/changelog.md"
 }
